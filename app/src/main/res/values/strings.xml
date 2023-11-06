@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="error">Something went wrong</string>
+    <string name="reload">Reload</string>
+</resources>
